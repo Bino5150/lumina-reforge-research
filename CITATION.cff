@@ -1,17 +1,17 @@
 cff-version: 1.2.0
 message: >
-  If you use this research preprint, please cite the specific version and its DOI once assigned.
+  Please cite the Lumina Reforge research preprint using the preferred citation below.
 title: 'Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents'
-type: generic
 authors:
   - family-names: Malik
     given-names: Jason
-    name-particle: ''
 version: '1.0'
-url: 'https://github.com/Bino5150/lumina'
+url: 'https://github.com/Bino5150/lumina-reforge-research'
+license: 'CC-BY-4.0'
 abstract: >
-  A working preprint describing transactional context reconstruction for persistent AI agents,
-  operational context reductions, and a documented limitation involving task-critical ephemeral state.
+  A research preprint on provenance-aware, transactional reconstruction of active context
+  for long-lived AI agents, with retrospectively documented operational reductions and
+  a reported limitation in preserving task-critical ephemeral state.
 preferred-citation:
   type: article
   title: 'Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents'
@@ -19,4 +19,6 @@ preferred-citation:
     - family-names: Malik
       given-names: Jason
   year: 2026
-  notes: 'Working preprint, v1.0; not peer reviewed. DOI pending.'
+  status: preprint
+  url: 'https://github.com/Bino5150/lumina-reforge-research'
+  notes: 'Working preprint, version 1.0; not peer reviewed; DOI pending.'
