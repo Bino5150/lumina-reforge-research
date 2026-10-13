@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Author | Jason “BINO” Malik — Independent Developer, Lumina Project |
+| ORCID | [0009-0003-3851-8884](https://orcid.org/0009-0003-3851-8884) |
 | Version | Working preprint v1.0 · 12 October 2026 · **Not peer reviewed** |
 | Research repository | https://github.com/Bino5150/lumina-reforge-research |
 | Lumina implementation | https://github.com/Bino5150/lumina |

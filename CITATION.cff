@@ -5,6 +5,7 @@ title: 'Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI A
 authors:
   - family-names: Malik
     given-names: Jason
+    orcid: 'https://orcid.org/0009-0003-3851-8884'
 version: '1.0'
 doi: '10.5281/zenodo.23328779'
 url: 'https://github.com/Bino5150/lumina-reforge-research'
@@ -20,6 +21,7 @@ preferred-citation:
   authors:
     - family-names: Malik
       given-names: Jason
+      orcid: 'https://orcid.org/0009-0003-3851-8884'
   year: 2026
   status: preprint
   url: 'https://doi.org/10.5281/zenodo.23328779'
