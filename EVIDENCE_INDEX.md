@@ -26,4 +26,4 @@ The original technical reference lists privately held artifacts such as `LUMINA_
 - No measured GPU memory, latency, provider billing, or cache-cost savings.
 - No claim of peer review or independent experimental replication.
 
-**Source vetting status:** Public GitHub repository is accessible. The referenced files at the specific SHAs were inspected by the publication assistant; the experimental numbers still require an independent artifact-level audit before public deposition.
+**Evidence reconciliation:** The headline numbers and documented limitations were checked against the original retained A6M, Chat 134, and Cycle 02 evaluation reports on 2026-10-13. This is source-report reconciliation, **not independent experimental replication from raw runtime logs**; the private experiment artifacts are not included in this public repository.

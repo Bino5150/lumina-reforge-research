@@ -6,6 +6,7 @@ authors:
   - family-names: Malik
     given-names: Jason
 version: '1.0'
+doi: '10.5281/zenodo.23328779'
 url: 'https://github.com/Bino5150/lumina-reforge-research'
 license: 'CC-BY-4.0'
 abstract: >
@@ -14,11 +15,12 @@ abstract: >
   a reported limitation in preserving task-critical ephemeral state.
 preferred-citation:
   type: article
+  doi: '10.5281/zenodo.23328779'
   title: 'Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents'
   authors:
     - family-names: Malik
       given-names: Jason
   year: 2026
   status: preprint
-  url: 'https://github.com/Bino5150/lumina-reforge-research'
-  notes: 'Working preprint, version 1.0; not peer reviewed; DOI pending.'
+  url: 'https://doi.org/10.5281/zenodo.23328779'
+  notes: 'Working preprint, version 1.0; not peer reviewed; deposited on Zenodo.'

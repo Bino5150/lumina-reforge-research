@@ -2,6 +2,8 @@
 
 *Clean the workbench. Keep the blueprint.*
 
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23328779.svg)](https://doi.org/10.5281/zenodo.23328779)
+
 **Paper:** *Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents*
 
 | | |
@@ -10,7 +12,7 @@
 | Version | Working preprint v1.0 · 12 October 2026 · **Not peer reviewed** |
 | Research repository | https://github.com/Bino5150/lumina-reforge-research |
 | Lumina implementation | https://github.com/Bino5150/lumina |
-| Research DOI | Pending Zenodo publication |
+| Research DOI (preprint v1.0) | [10.5281/zenodo.23328779](https://doi.org/10.5281/zenodo.23328779) |
 
 **Read the research:** [PDF](Lumina_Reforge_Preprint_v1.pdf) · [Editable Markdown manuscript](manuscript.md) · [Evidence index](EVIDENCE_INDEX.md)
 
@@ -33,11 +35,11 @@ The original experimental reports are maintained by the Lumina project. This rep
 
 ## Citation
 
-Until the Zenodo DOI is issued, cite:
+For the archived **version 1.0**, cite the Zenodo preprint ([10.5281/zenodo.23328779](https://doi.org/10.5281/zenodo.23328779)):
 
-> Malik, Jason “BINO” (2026). *Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents*. Working preprint, version 1.0. https://github.com/Bino5150/lumina-reforge-research
+> Malik, Jason “BINO” (2026). *Lumina Reforge: Transactional Context Reconstruction for Long-Lived AI Agents*. Working preprint, version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23328779
 
-See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata. Add the canonical DOI here and to `CITATION.cff` after Zenodo publication; do not invent one.
+See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata. The linked Zenodo DOI identifies the deposited version 1.0; future versions may have their own version-specific DOIs.
 
 ## AI assistance and responsibility
 
